@@ -4,7 +4,8 @@ An interactive Excel dashboard developed to analyse hospital patient satisfactio
 
 This project uses Microsoft Excel features such as Pivot Tables, Pivot Charts, Slicers, and KPI cards to transform raw healthcare data into meaningful insights.
 
-<img width="960" height="509" alt="EXCEL DB" src="https://github.com/user-attachments/assets/0e9e23d8-652a-4658-8f29-e208b93da825" />
+<img width="787" height="402" alt="EXCEL DB" src="https://github.com/user-attachments/assets/b98fb580-308c-4d49-b38a-682abf9f45ad" />
+
 
 
 
