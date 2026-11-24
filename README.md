@@ -29,3 +29,11 @@ This project uses Microsoft Excel features such as Pivot Tables, Pivot Charts, S
 To analyse healthcare service performance, identify patient satisfaction trends, and provide data-driven insights that can support better decision-making and improve patient experience.
 
 **Skills Demonstrated:** Data Analysis | Data Visualization | Excel | Dashboard Development | Business Insights
+
+**👩‍💻 About This Project**
+
+This project is part of my Data Analytics learning journey, where I apply practical analytical skills to real-world business scenarios.
+
+I am continuously developing my skills in Excel, Power BI, Tableau and Python to build interactive dashboards and convert data into meaningful insights.
+
+Thank you for visiting my project!
