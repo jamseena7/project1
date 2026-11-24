@@ -4,6 +4,9 @@ An interactive Excel dashboard developed to analyse hospital patient satisfactio
 
 This project uses Microsoft Excel features such as Pivot Tables, Pivot Charts, Slicers, and KPI cards to transform raw healthcare data into meaningful insights.
 
+![Uploading Screenshot 2026-11-24 190605.png…]()
+
+
 ### Key Features
 - Patient satisfaction analysis
 - Average waiting time analysis
